@@ -1,2 +1,3 @@
-# Testing
-It is a repo created for learning and practicing
+# Dummy1
+This dummy file will carry some dummy info.
+Hope u didnt waste time reading this
